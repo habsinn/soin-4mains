@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outils on Soin à 4 mains.</title>
+    <link>/categories/outils/</link>
+    <description>Recent content in outils on Soin à 4 mains.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 12:14:34 +0600</lastBuildDate>
+    
+	<atom:link href="/categories/outils/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Les bols chantants</title>
+      <link>/blog/les-bols-chantants/</link>
+      <pubDate>Sun, 02 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>/blog/les-bols-chantants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

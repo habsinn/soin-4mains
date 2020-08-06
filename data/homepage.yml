@@ -1,124 +1,85 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : ""
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "« Elles offrent, au-delà des techniques auxquelles je n’ai pas accès (mais leurs CV sont enchantants), le laisser-aller à cette sensation intime du réconfort d’être soigné par l’autre, comme le câlin d’une mère en réponse au caprice par exemple. Également, la liberté de lâcher prise sur toutes les inquiétudes à propos de comment-j-ai-à-me-positionner-par-rapport-aux-tendances-des-nouveaux-soins-alternatifs : comme si ici, grâce à la simplicité avec laquelle elles m’ont reçu, on n’était enfin plus là pour ça. Cela me permit de rentrer simplement dans ce silence si cher aux chercheurs de sens. Ce n’est malheureusement pas encore assez pour me permettre d’aller vraiment confortablement dans mon corps souffrant, cependant leur aide offre au moins le répit, et leur bienveillance le courage. »"
   button:
-    enable : true
-    label : "know more"
+    enable : false
+    label : "En savoir plus..."
     URL : "about"
 
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "Techniques que nous pratiquons : "
   item:
-    - title : "Web Design"
+
+    - title : "Énergétique"
       progress : "90%"
-      color : "#fdb157"
-      
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
-      
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
-      
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
+      color : "#fff30a"
 
-# experience
-experience:
-  enable : true
-  title : "Experience"
-  item: 
-    - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
-      
-    - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
-      
-    - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+    - title : "Reiki"
+      progress : "90%"
+      color : "#fff30a"
 
-# education
-education:
-  enable : true
-  title : "Education"
-  item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Access Bar"
+      progress : "90%"
+      color : "#e04887"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Libération quantique"
+      progress : "50%"
+      color : "#fff30a"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Soin Isis"
+      progress : "90%"
+      color : "#fff30a"
 
-# service
-service:
-  enable : true
-  title : "Services"
-  item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
-
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : true
-
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : false
+    - title : "PNL"
+      progress : "40%"
+      color : "#7e3c80"
 
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
-  item_show : 5
-  # portfolio item comes from 'data/portfolio.yml' item.
+  title : "Au cours d'une séance :"
+  photos : 
+    - pic : "/images/portfolio/item-1.png"
+    - pic : "/images/portfolio/item-2.png"
+    - pic : "/images/portfolio/item-3.png"
+    - pic : "/images/portfolio/item-4.png"
+    - pic : "/images/portfolio/item-5.png"
+    - pic : "/images/portfolio/item-6.png"
 
-# testimonial
-testimonial:
+# service
+service:
   enable : true
-  title : "Testimonials"
+  title : "Déroulé d'un soin:"
   item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    - title : "AVANT : prise de contact"
+      icon : "ti-palette"
+      content : "Vous pouvez nous contacter par écrit ou de vive voix pour nous faire part de l'objet de votre venue : souhait de relaxation, travail sur un stress émotionnel, épuisement professionnel..."
+      highlighted : false
+
+    - title : "PENDANT : le soin"
+      icon : "ti-vector"
+      content : "Nous vous accueillons lors d'un temps d'échange pour approfondir votre intention. Puis le nettoyage énergétique se réalise allongé.e sur la table de soin. Apposition des mains sur ou à distance des centres énergétiques. Enfin, un temps d'accueil et d'intégration du soin clôture la séance."
+      highlighted : true
+
+    - title : "APRÈS : intégration et échange"
+      icon : "ti-panel"
+      content : "Dans la continuité de la séance, sachez que nous restons entièrement disponibles pour poursuivre l'échange avec vous à tout moment : sur vos ressentis, vos questionnements, ou tout ce qui pourrait émerger suite au soin."
+      highlighted : false
+
+
+# blog
+blog:
+  enable : true
+  title : "Quelques articles pour nourrir votre curiosité : "
+  # blog post comes from "content/blog" folder
+
 
 # client logo slider
 clients_logo_slider:
@@ -133,29 +94,4 @@ clients_logo_slider:
     - logo : "images/clients-logo/client-logo-3.png"
       URL : "http://examplesite.com"
       
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "#"
-
-# blog
-blog:
-  enable : true
-  title : "Blogs"
-  # blog post comes from "content/blog" folder
+    

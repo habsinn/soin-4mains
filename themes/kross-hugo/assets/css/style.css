@@ -41,7 +41,7 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 80px
+  font-size: 65px
 }
 
 @media(max-width:991px) {
@@ -336,7 +336,7 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: playfair display, serif !important
+  font-family: futura, serif !important
 }
 
 .font-tertiary {
