@@ -7,9 +7,9 @@ about:
   enable : true
   content : "« Elles offrent, au-delà des techniques auxquelles je n’ai pas accès (mais leurs CV sont enchantants), le laisser-aller à cette sensation intime du réconfort d’être soigné par l’autre, comme le câlin d’une mère en réponse au caprice par exemple. Également, la liberté de lâcher prise sur toutes les inquiétudes à propos de comment-j-ai-à-me-positionner-par-rapport-aux-tendances-des-nouveaux-soins-alternatifs : comme si ici, grâce à la simplicité avec laquelle elles m’ont reçu, on n’était enfin plus là pour ça. Cela me permit de rentrer simplement dans ce silence si cher aux chercheurs de sens. Ce n’est malheureusement pas encore assez pour me permettre d’aller vraiment confortablement dans mon corps souffrant, cependant leur aide offre au moins le répit, et leur bienveillance le courage. »"
   button:
-    enable : false
-    label : "En savoir plus..."
-    URL : "about"
+    enable : true
+    label : "Lire plus de témoignages.."
+    URL : "/blog/temoignages"
 
 # skill
 skill:
@@ -19,39 +19,40 @@ skill:
 
     - title : "Énergétique"
       progress : "90%"
-      color : "#fff30a"
+      color : "#8f1886"
 
     - title : "Reiki"
       progress : "90%"
-      color : "#fff30a"
+      color : "#8f1886"
 
     - title : "Access Bar"
       progress : "90%"
-      color : "#e04887"
+      color : "#ffdd19"
       
     - title : "Libération quantique"
       progress : "50%"
-      color : "#fff30a"
+      color : "#8f1886"
       
     - title : "Soin Isis"
       progress : "90%"
-      color : "#fff30a"
+      color : "#8f1886"
 
     - title : "PNL"
       progress : "40%"
-      color : "#7e3c80"
+      color : "#e04887"
 
 # portfolio
 portfolio:
   enable : true
   title : "Au cours d'une séance :"
-  photos : 
+  item_show : 6
+  photos :
     - pic : "/images/portfolio/item-1.png"
     - pic : "/images/portfolio/item-2.png"
     - pic : "/images/portfolio/item-3.png"
     - pic : "/images/portfolio/item-4.png"
     - pic : "/images/portfolio/item-5.png"
-    - pic : "/images/portfolio/item-6.png"
+    - pic : "/images/portfolio/item-6.png" 
 
 # service
 service:
@@ -65,7 +66,7 @@ service:
 
     - title : "PENDANT : le soin"
       icon : "ti-vector"
-      content : "Nous vous accueillons lors d'un temps d'échange pour approfondir votre intention. Puis le nettoyage énergétique se réalise allongé.e sur la table de soin. Apposition des mains sur ou à distance des centres énergétiques. Enfin, un temps d'accueil et d'intégration du soin clôture la séance."
+      content : "Nous vous accueillons par un temps d'échange pour approfondir votre intention. Puis le nettoyage énergétique se réalise allongé.e sur la table de soin, par apposition des mains sur ou à distance des centres énergétiques. Enfin, un temps d'accueil et d'intégration du soin clôture la séance."
       highlighted : true
 
     - title : "APRÈS : intégration et échange"
@@ -77,7 +78,7 @@ service:
 # blog
 blog:
   enable : true
-  title : "Quelques articles pour nourrir votre curiosité : "
+  title : "Quelques articles pour nourrir la curiosité : "
   # blog post comes from "content/blog" folder
 
 
@@ -91,7 +92,6 @@ clients_logo_slider:
     - logo : "images/clients-logo/client-logo-2.png"
       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
+
       
     

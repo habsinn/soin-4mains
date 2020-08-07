@@ -3,7 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Soin à 4 mains."
+title = "Un soin à 4 mains"
 
 # css plugins
 [[params.plugins.css]]
@@ -41,13 +41,13 @@ weight = 1
 home = "[Le soin]"
 logo = ""
 # theme color
-theme_color = "#7e3c80"
+theme_color = "#8f1886"
 # contact info
-phone = "06 78 78 65 56"
-email = "magali-et-lucie@soinà4mains.eu"
+phone = "06 52 17 82 20"
+email = "lucie@soin-4-mains.eu, magali@soin-4-mains.eu"
 address = "Avenue Gaston Cabannes 33270 Floirac"
 # meta description
-author = "Magali De Bortoli, Lucie Castets"
+author = "Magali De Bortoli, Lucie Castet"
 description = "Dans la région de Bordeaux, Magali De Bortoli, Lucie Castets pratiquent une forme singulière : le soin énergétique à 4 mains."
 # google analytics
 google_analytics_id = "" # Your ID
@@ -89,3 +89,6 @@ URL = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 URL = "#"
+
+[markup.goldmark.renderer]
+unsafe = true

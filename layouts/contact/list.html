@@ -11,8 +11,7 @@
       </div>
       <div class="col-12">
         {{ with site.Params.map }}
-        {{"<!-- Google Map -->" | safeHTML}}
-        <div class="shadow" id="map" data-latitude="{{ .map_latitude }}" data-longitude="{{ .map_longitude }}"
+        {{"<!-- Google Map -->" | safeHTML}}        <div class="shadow" id="map" data-latitude="{{ .map_latitude }}" data-longitude="{{ .map_longitude }}"
           data-marker="{{ .map_marker | absURL }}" data-marker-name="{{ site.Title }}" style="height: 400px;"></div>
         {{ end }}
       </div>
