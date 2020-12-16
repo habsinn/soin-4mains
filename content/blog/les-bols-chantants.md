@@ -1,7 +1,7 @@
 ---
 title: "Les bols chantants"
 date: 2020-08-05T12:14:34+06:00
-image: "images/portfolio/les-bols-chantants.jpeg"
+image: "images/portfolio/les-bols-chantants.jpg"
 categories: ["outils","intention"]
 description: ""
 draft: false

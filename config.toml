@@ -33,18 +33,18 @@ link = "plugins/google-map/map.js"
 
 [[menu.main]]
 URL = "blog"
-name = "(Curiosités)"
+name = "Curiosités >"
 weight = 1
 
 # default parameters
 [params]
-home = "[Le soin]"
+home = "Le soin >"
 logo = ""
 # theme color
 theme_color = "#8f1886"
 # contact info
 phone = "06 52 17 82 20"
-email = "lucie@soin-4-mains.eu, magali@soin-4-mains.eu"
+email = "reservation@soin-4-mains.eu"
 address = "Avenue Gaston Cabannes 33270 Floirac"
 # meta description
 author = "Magali De Bortoli, Lucie Castet"

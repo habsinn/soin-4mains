@@ -1,7 +1,7 @@
 ---
 title: "Les cartes"
 date: 2020-08-01T12:14:34+06:00
-image: "images/portfolio/les-cartes.jpeg"
+image: "images/portfolio/les-cartes.jpg"
 categories: ["énergétique"]
 description: ""
 draft: false
