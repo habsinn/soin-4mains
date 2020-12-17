@@ -19,27 +19,27 @@ skill:
 
     - title : "Énergétique"
       progress : "90%"
-      color : "#8f1886"
+      color : "#af0bc1"
 
     - title : "Reiki"
       progress : "90%"
-      color : "#8f1886"
+      color : "#af0bc1"
 
     - title : "Access Bar"
       progress : "90%"
-      color : "#ffdd19"
+      color : "#fcf097"
       
     - title : "Libération quantique"
       progress : "50%"
-      color : "#8f1886"
+      color : "#af0bc1"
       
     - title : "Soin Isis"
       progress : "90%"
-      color : "#8f1886"
+      color : "#af0bc1"
 
     - title : "PNL"
       progress : "40%"
-      color : "#e04887"
+      color : "#fc6a8e"
 
 # portfolio
 portfolio:
@@ -57,7 +57,7 @@ portfolio:
 # service
 service:
   enable : true
-  title : "Déroulé d'un soin:"
+  title : "Déroulé d'un soin :"
   item:
     - title : "AVANT : prise de contact"
       icon : "ti-palette"

@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "/"
+baseURL = "https://soin-4-mains.eu"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Un soin à 4 mains"
+title = "Soin à 4 mains"
 
 # css plugins
 [[params.plugins.css]]
@@ -41,10 +41,10 @@ weight = 1
 home = "Le soin >"
 logo = ""
 # theme color
-theme_color = "#8f1886"
+theme_color = "#af0bc1"
 # contact info
-phone = "06 52 17 82 20"
-email = "reservation@soin-4-mains.eu"
+phone = "06 52 17 82 20 <br> (Lucie Castets)"
+email = "reservation@soin-4-mains.eu "
 address = "Avenue Gaston Cabannes 33270 Floirac"
 # meta description
 author = "Magali De Bortoli, Lucie Castet"

@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Un soin à 4 mains</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Un soin à 4 mains</description>
+    <title>Categories on Soin à 4 mains</title>
+    <link>https://soin-4-mains.eu/categories/</link>
+    <description>Recent content in Categories on Soin à 4 mains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Aug 2020 12:14:34 +0600</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://soin-4-mains.eu/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>énergétique</title>
-      <link>/categories/%C3%A9nerg%C3%A9tique/</link>
+      <link>https://soin-4-mains.eu/categories/%C3%A9nerg%C3%A9tique/</link>
       <pubDate>Thu, 06 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/%C3%A9nerg%C3%A9tique/</guid>
+      <guid>https://soin-4-mains.eu/categories/%C3%A9nerg%C3%A9tique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intention</title>
-      <link>/categories/intention/</link>
+      <link>https://soin-4-mains.eu/categories/intention/</link>
       <pubDate>Wed, 05 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/intention/</guid>
+      <guid>https://soin-4-mains.eu/categories/intention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outils</title>
-      <link>/categories/outils/</link>
+      <link>https://soin-4-mains.eu/categories/outils/</link>
       <pubDate>Wed, 05 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>/categories/outils/</guid>
+      <guid>https://soin-4-mains.eu/categories/outils/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soin</title>
-      <link>/categories/soin/</link>
+      <link>https://soin-4-mains.eu/categories/soin/</link>
       <pubDate>Fri, 31 Jul 2020 14:14:34 +0600</pubDate>
       
-      <guid>/categories/soin/</guid>
+      <guid>https://soin-4-mains.eu/categories/soin/</guid>
       <description></description>
     </item>
     

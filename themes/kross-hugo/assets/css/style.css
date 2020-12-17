@@ -54,14 +54,14 @@ h1,
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 50px
 }
 
 @media(max-width:991px) {
 
   h2,
   .h2 {
-    font-size: 50px
+    font-size: 40px
   }
 }
 
@@ -216,8 +216,8 @@ a:hover {
 }
 
 .section {
-  padding-top: 80px;
-  padding-bottom: 80px
+  padding-top: 60px;
+  padding-bottom: 40px
 }
 
 .section-title {
@@ -348,7 +348,7 @@ a:hover {
 }
 
 .bg-dark {
-  background-color: #ffd633 !important
+  background-color: #fcf097 !important /* couleur jaune // yellow color */
 }
 
 .icon {
@@ -817,7 +817,7 @@ blockquote {
 }
 
 .page-title {
-  padding: 250px 0 150px
+  padding: 200px 0 50px
 }
 
 .page-title .container {
@@ -920,4 +920,12 @@ blockquote {
 .img_banner {
   max-width: 100%;
   height: auto;
+}
+
+.text-yellow {
+  color : #fcf097;
+}
+
+.text-grey {
+  color : #997590;
 }
