@@ -28,8 +28,6 @@ link = "plugins/google-map/map.js"
 
 
 # menu
-[[menu.main]]
-
 
 [[menu.main]]
 URL = "blog"
@@ -43,8 +41,8 @@ logo = ""
 # theme color
 theme_color = "#af0bc1"
 # contact info
-phone = "06 52 17 82 20 <br> (Lucie Castets)"
-email = "reservation@soin-4-mains.eu "
+phone = "06 52 17 82 20 <br> (Lucie Castet)"
+email = "reservation@soin-4mains.eu "
 address = "Avenue Gaston Cabannes 33270 Floirac"
 # meta description
 author = "Magali De Bortoli, Lucie Castet"
@@ -56,14 +54,14 @@ copyright = "Copyleft &copy; 2020 - [Les Éthers Fertiles](https://lesethersfert
 
 
 # preloader
-[params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+#[params.preloader]
+# enable = true
+# preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # contact
-[params.contact]
-enable = true
-form_action = "#" # contact form works with : https://formspree.io
+#[params.contact]
+# enable = true
+# form_action = "#" # contact form works with : https://formspree.io
 
 # google map
 [params.map]
@@ -80,14 +78,6 @@ URL = "#"
 
 [[params.social]]
 icon = "ti-instagram"
-URL = "#"
-
-[[params.social]]
-icon = "ti-dribbble"
-URL = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt"
 URL = "#"
 
 [markup.goldmark.renderer]

@@ -1,69 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://soin-4-mains.eu/categories/</loc>
     <lastmod>2020-08-06T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/notre-approche-de-l-energetique/</loc>
     <lastmod>2020-08-06T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/</loc>
     <lastmod>2020-08-06T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/</loc>
     <lastmod>2020-08-06T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/categories/%C3%A9nerg%C3%A9tique/</loc>
     <lastmod>2020-08-06T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/categories/intention/</loc>
     <lastmod>2020-08-05T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/les-bols-chantants/</loc>
     <lastmod>2020-08-05T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/categories/outils/</loc>
     <lastmod>2020-08-05T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/les-pierres/</loc>
     <lastmod>2020-08-02T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/les-cartes/</loc>
     <lastmod>2020-08-01T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/categories/soin/</loc>
     <lastmod>2020-07-31T14:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/blog/temoignages/</loc>
     <lastmod>2020-07-31T14:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://soin-4-mains.eu/tags/</loc>
   </url>
-  
 </urlset>
