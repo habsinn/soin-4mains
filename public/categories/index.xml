@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Soin à 4 mains</title>
-    <link>soin-4mains.eu/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Soin à 4 mains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2020 12:14:34 +0600</lastBuildDate><atom:link href="soin-4mains.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Aug 2020 12:14:34 +0600</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>énergétique</title>
-      <link>soin-4mains.eu/categories/%C3%A9nerg%C3%A9tique/</link>
+      <link>/categories/%C3%A9nerg%C3%A9tique/</link>
       <pubDate>Thu, 06 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>soin-4mains.eu/categories/%C3%A9nerg%C3%A9tique/</guid>
+      <guid>/categories/%C3%A9nerg%C3%A9tique/</guid>
       <description></description>
     </item>
     
     <item>
       <title>intention</title>
-      <link>soin-4mains.eu/categories/intention/</link>
+      <link>/categories/intention/</link>
       <pubDate>Wed, 05 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>soin-4mains.eu/categories/intention/</guid>
+      <guid>/categories/intention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outils</title>
-      <link>soin-4mains.eu/categories/outils/</link>
+      <link>/categories/outils/</link>
       <pubDate>Wed, 05 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>soin-4mains.eu/categories/outils/</guid>
+      <guid>/categories/outils/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soin</title>
-      <link>soin-4mains.eu/categories/soin/</link>
+      <link>/categories/soin/</link>
       <pubDate>Fri, 31 Jul 2020 14:14:34 +0600</pubDate>
       
-      <guid>soin-4mains.eu/categories/soin/</guid>
+      <guid>/categories/soin/</guid>
       <description></description>
     </item>
     

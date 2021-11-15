@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>soin on Soin à 4 mains</title>
-    <link>soin-4mains.eu/categories/soin/</link>
+    <link>/categories/soin/</link>
     <description>Recent content in soin on Soin à 4 mains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2020 14:14:34 +0600</lastBuildDate><atom:link href="soin-4mains.eu/categories/soin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jul 2020 14:14:34 +0600</lastBuildDate><atom:link href="/categories/soin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Témoignages</title>
-      <link>soin-4mains.eu/blog/temoignages/</link>
+      <link>/blog/temoignages/</link>
       <pubDate>Fri, 31 Jul 2020 14:14:34 +0600</pubDate>
       
-      <guid>soin-4mains.eu/blog/temoignages/</guid>
+      <guid>/blog/temoignages/</guid>
       <description>&amp;ldquo;L’accueil se fait dans la douceur et ce dès le début de la rencontre.</description>
     </item>
     
