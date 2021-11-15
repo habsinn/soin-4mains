@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Soin à 4 mains</title>
-    <link>https://soin-4-mains.eu/tags/</link>
+    <link>soin-4mains.eu/tags/</link>
     <description>Recent content in Tags on Soin à 4 mains</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://soin-4-mains.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="soin-4mains.eu/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

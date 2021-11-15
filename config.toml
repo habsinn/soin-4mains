@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://soin-4-mains.eu"
+baseURL = "soin-4mains.eu"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
