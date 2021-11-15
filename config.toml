@@ -41,14 +41,14 @@ logo = ""
 # theme color
 theme_color = "#af0bc1"
 # contact info
-phone = "06 52 17 82 20 <br> (Lucie Castet)"
+phone = "06 52 17 82 20"
 email = "reservation@soin-4mains.eu "
-address = "Avenue Gaston Cabannes 33270 Floirac"
+address = "Av. Gaston Cabannes 33270 Floirac (Bordeaux Métropole)"
 # meta description
-author = "Magali De Bortoli, Lucie Castet"
-description = "Dans la région de Bordeaux, Magali De Bortoli, Lucie Castet pratiquent une forme singulière de bien-être physiologique : le soin énergétique à 4 mains."
+author = "Lucie Castet, Magali De Bortoli"
+description = "Dans la région de Bordeaux, Lucie Castet et Magali De Bortoli pratiquent des soins énergétiques à 4 mains."
 # copyright
-copyright = "Copyleft &copy; 2020 - [Les Éthers Fertiles](https://lesethersfertiles.eu/)"
+copyright = "Site réalisé avec [Les Éthers Fertiles](https://lesethersfertiles.eu/)"
 
 
 # preloader
